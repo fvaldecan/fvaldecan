@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-nickyvaldecanas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickyvaldecanas@gmail.com)](mailto:nickyvaldecanas@gmail.com)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fvaldecan.github.io/)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fvaldecan&&theme=dark&show_icons=true&locale=en" alt="fvaldecan" /></p>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fvaldecan&&theme=dark&show_icons=true&locale=en&layout=compact" alt="fvaldecan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fvaldecan&&theme=dark&show_icons=true&locale=en" alt="fvaldecan" /></p>
 
 
