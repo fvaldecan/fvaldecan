@@ -2,7 +2,8 @@
 ### My name is Franco Dominic Valdecanas but I usually go by Nick or Nicky
 - swe fellow @ [Ro 🏥](https://ro.co)
 - volunteer @ [Develop For Good ❤️](https://www.developforgood.org/) 
--  [🌊🐺](sonoma.edu) alum
+-  [🌊🐺](sonoma.edu) alum 
+-  Makati City, PHI ➡️ SJ, CA 
 - stuff i do for fun: [🎾](https://sonomaseawolves.com/sports/mens-tennis/roster/nicky-valdecanas/4155) [🏌️](https://www.youtube.com/watch?v=mkZ0wVul2Fc&ab_channel=LawtonGolf) [🏐](https://www.youtube.com/watch?v=hrUKemJhy9g&ab_channel=OtakuGains) [ 🎧](https://open.spotify.com/user/222bzakdxxgx2ctwofadyhxxq)
   
 
