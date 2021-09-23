@@ -25,7 +25,8 @@
 
  - Nicky 
  - Nick 
- - Niche 
+ - Nicko
+ - Niche
  - No-V 
  - Niklaus 
  - Klaus
