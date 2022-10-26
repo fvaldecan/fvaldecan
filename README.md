@@ -1,12 +1,17 @@
 ## Wssup 👋
 ### My name is Franco Dominic Valdecanas but I usually go by Nick or Nicky
+
+<details>
+ <summary><b>bio</b></summary>
+ 
 - doin cool stuff @ [Ro 🏥](https://ro.co)
 - part-time masters @ [SJSU 💙💛](https://www.sjsu.edu/) studying cs 
 - volunteered @ [Develop For Good ❤️](https://www.developforgood.org/) 
 -  [SSU 🌊🐺](https://www.sonoma.edu) alum 
--  Makati City, PHI ➡️ SJ, CA 
+-  Makati City, PHI ➡️ ESSJ, CA 
 - stuff i do for fun: [🎾](https://sonomaseawolves.com/sports/mens-tennis/roster/nicky-valdecanas/4155) [🏌️](https://www.youtube.com/watch?v=mkZ0wVul2Fc&ab_channel=LawtonGolf) [🏐](https://www.youtube.com/watch?v=hrUKemJhy9g&ab_channel=OtakuGains) [ 🎧](https://open.spotify.com/user/222bzakdxxgx2ctwofadyhxxq)
-  
+</details>
+
 
 <details>
  <summary><b>git stats 👀</b></summary>
