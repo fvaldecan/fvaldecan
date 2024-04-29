@@ -1,5 +1,5 @@
 ## Wssup 👋
-### My name is Franco Dominic Valdecanas but I usually go by Nick or Nicky
+### My name is Franco Dominic Valdecanas but I usually go by Nicky
 
 <details>
  <summary><b>bio</b></summary>
